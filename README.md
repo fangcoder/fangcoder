@@ -2,8 +2,6 @@
 
 ### 一个热爱运动的程序猿
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fangcoder&label=Profile views&color=0e75b6&style=flat" alt="fangcoder" /> </p>
-
 - 🔭 I'm currently working on **Java后端开发**
 
 - 🌱 I'm currently learning **springWebFlux、VUE3**
